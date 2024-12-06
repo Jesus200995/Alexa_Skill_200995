@@ -24,7 +24,7 @@ const WeatherIntentHandler = {
   },
   async handle(handlerInput) {
     try {
-      const apiKey = 'c0127b836a5f08702496e2850e340546'; // Reemplaza con tu clave de API de OpenWeatherMap
+      const apiKey = '178b709d889c7d52ce155745184d1d7f'; // Reemplaza con tu clave de API de OpenWeatherMap
       const lat = 19.050; // Reemplaza con la latitud deseada
       const lon = -98.200; // Reemplaza con la longitud deseada
 
