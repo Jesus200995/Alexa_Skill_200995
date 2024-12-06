@@ -1,4 +1,5 @@
-![utxj](https://github.com/loreasc2003/m4delProyecto/assets/163441777/57f5e0f6-567a-4597-beff-f8adc0768c60)
+![image](https://github.com/user-attachments/assets/203320ea-089a-42ac-a68a-083c3abeace7)
+
 
 <br>
 <br>
@@ -6,8 +7,8 @@
 <br>
 
 <h2 align="center"> Desarrollo Móvil Integral </h2>
-<h2 align="center"> Skill_Alexa_210128 </h2>
-<h2 align="center"> Por: Jonathan Enrique Ibarra Canales </h2>
+<h2 align="center"> Skill_Alexa_200995 </h2>
+<h2 align="center"> Por: Jesus Rios Gomez </h2>
 <br>
 
 
@@ -60,7 +61,8 @@ Desarrollar una skill para Alexa para poder acceder al clima mediante la ubicaci
 
 ## Resultados
 
-![Captura de pantalla 2024-12-04 125235](https://github.com/user-attachments/assets/fd703107-189c-4474-8bf7-e9754040fcab)
+![image](https://github.com/user-attachments/assets/f1b12197-7c69-47bd-8ac8-ab6308f1afc9)
+
 
 
 
